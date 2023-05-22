@@ -26,7 +26,8 @@ This repository contains the code for a simple calculator web application. The c
 
 ## Preview
 
-![Calculator App Preview](screenshot.png)
+![Calculator App Preview](![image](https://github.com/Lovelace-D/calculator/assets/119031581/aa77b956-4653-4c8d-9abb-6af7417843f0)
+)
 
 ## Credits
 
